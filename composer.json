@@ -1,5 +1,5 @@
 {
-  "name": "s1351/elasticemail-laravel",
+  "name": "s1351/elasticemail-api",
   "type": "library",
   "description": "ElasticEmail PHP API library",
   "license": "MIT",
